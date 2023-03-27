@@ -1,0 +1,2 @@
+MGN_MPIO_POLITICO.shp filter=lfs diff=lfs merge=lfs -text
+datos[[:space:]]cun.csv filter=lfs diff=lfs merge=lfs -text
