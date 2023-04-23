@@ -1,5 +1,5 @@
 # Spatial-analysis-project
-con información directa sobre la tasa de migración, pero tienes datos de población por edades a partir de dos censos (2005 y 2018), aún puedes realizar un análisis utilizando la econometría espacial. En este caso, puedes utilizar la proporción de la población en un grupo de edad específico (por ejemplo, mayores de 65 años) como la variable dependiente.
+Se puede realizar un análisis utilizando la econometría espacial. En este caso, puedes utilizar la proporción de la población en un grupo de edad específico (por ejemplo, mayores de 65 años) como la variable dependiente.
 
 A continuación, te propongo un enfoque general para realizar el análisis:
 
