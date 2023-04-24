@@ -1,0 +1,3 @@
+--- Información del archivo ipm_bogota_cundinamarca.csv ---
+Este archivo contiene información del Índice de Pobreza Multidimensional para Bogotá y los municipios de Cundinamarca para los años 2005 y 2018, según datos del DANE.
+Las columnas son: dp, cod_mpio, mpio, año, numero_hogares, Bajo_logro_educativo, Analfabetismo, Inasistencia_escolar, Rezago_escolar, barreras_primera_infancia, Trabajo_infantil, dependencia_económica, Empleo_informal, Sin_salud, Barreras_salud, Sin_acceso_agua_mejorada, Inadecuada_elim_excretas, Pisos_inadecuados, Paredes_inadecuadas, Hacinamiento.

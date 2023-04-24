@@ -1,0 +1,3 @@
+--- Información del archivo poblacion_bogota_cundinamarca.csv ---
+Este archivo contiene información de la población por grupos de edad y género para los años 2005 y 2018, discriminada por género, para Bogotá y el departamento de Cundinamarca.
+Las columnas son: DP, DPNOM, DPMP, MPIO, AÑO, area, Niños_M, Jóvenes_M, Adultos_M, Adultos mayores_M, Niñas, Jóvenes_F, Adultos_F, Adultos mayores_F, Total_Hombres, Total_Mujeres y Total_General.
